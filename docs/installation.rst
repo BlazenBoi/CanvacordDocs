@@ -2,6 +2,16 @@
 Installation
 ============
 
-Install the package with pip::
+# Installation
 
-    $ pip install read-the-docs-template
+Run any of these commands in terminal:
+
+Mac / Linux
+```
+pip install canvacord
+```
+
+Windows
+```
+python -m pip install canvacord
+```

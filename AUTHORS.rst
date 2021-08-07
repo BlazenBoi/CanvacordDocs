@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Blazen (Head Developer)
+* Akhil.daSimp (Develper)
 
 
