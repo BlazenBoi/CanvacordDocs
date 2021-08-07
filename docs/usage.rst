@@ -2,7 +2,7 @@
 Usage
 ========
 
-``import discord
+```import discord
 from discord.ext import commands
 import canvacord
 
@@ -50,4 +50,4 @@ async def gay(ctx):
     file = discord.File(filename="gay.png", fp=image)
     await ctx.send(file=file)
     
-client.run("BOT_TOKEN")``
+client.run("BOT_TOKEN")```
